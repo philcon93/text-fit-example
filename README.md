@@ -1,2 +1,2 @@
-# text-fit-example
+# text-limiter-example
 Created with CodeSandbox
